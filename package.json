@@ -1,0 +1,15 @@
+{
+  "name": "scrape-findroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^16.1.0"
+  }
+}
